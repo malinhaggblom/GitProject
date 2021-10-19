@@ -1,4 +1,4 @@
-Changing the first line in GitHub or where
+Changing the first line in GitHub
 First things first, Eggs
 Milk
 Bread
